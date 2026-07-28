@@ -20,6 +20,7 @@ I'm a Management Information Systems student at **Hanoi University of Science an
 - 🔬 Currently learning **Uncertainty Quantification, XAI & Graph Neural Networks**
 
 <br>
+
 ## 🚀 Featured Projects
 
 ### 📈 [Uncertainty-Aware S&P 500 Prediction](https://github.com/chinguyenkhac/uncertainty-aware-sp500-prediction)
