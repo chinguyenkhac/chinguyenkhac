@@ -20,6 +20,31 @@ I'm a Management Information Systems student at **Hanoi University of Science an
 - 🔬 Currently learning **Uncertainty Quantification, XAI & Graph Neural Networks**
 
 <br>
+## 🚀 Featured Projects
+
+### 📈 [Uncertainty-Aware S&P 500 Prediction](https://github.com/chinguyenkhac/uncertainty-aware-sp500-prediction)
+
+Predicting significant S&P 500 movements with an emphasis on **predictive uncertainty and model reliability**.
+
+`Bayesian Logistic Regression` `Laplace Approximation` `Monte Carlo` `Calibration` `Walk-Forward Validation`
+
+---
+
+### 💼 [Salary Decision Support System](https://github.com/chinguyenkhac/salary-decision-support-system)
+
+A data-driven system for **salary analysis, prediction, and decision support** using statistical and machine learning methods.
+
+`Data Analysis` `Machine Learning` `Regression` `Decision Support`
+
+---
+
+### 🌾 [Rice Production Statistical Analysis](https://github.com/chinguyenkhac/rice-production-statistical-analysis)
+
+Statistical analysis of factors affecting rice production using **multiple linear regression and statistical inference**.
+
+`Statistics` `Multiple Linear Regression` `Statistical Inference` `Data Analysis`
+
+<br>
 
 ## 🛠️ Tech Stack
 
