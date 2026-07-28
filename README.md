@@ -5,5 +5,5 @@ Management Information Systems @ HUST
 </h3>
 
 <p align="center">
-  Data Analytics • Statistics • Machine Learning • Decision Support
+  Data Scientist • Statistics • Machine Learning • Decision Support
 </p>
